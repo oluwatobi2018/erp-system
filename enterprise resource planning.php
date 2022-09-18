@@ -14,7 +14,7 @@ use Symfony\Component\HttpFoundation\Response;
 /**
  * App class is used for encapsulate common parts of code for the normal App execution.
  *
- * @author Carlos García Gómez <carlos@facturascripts.com>
+ * @author Adeogun
  */
 abstract class App
 {
